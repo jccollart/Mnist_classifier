@@ -1,0 +1,5 @@
+# Recommended Python version: 3.12
+numpy
+matplotlib
+scikit-learn
+tensorflow
